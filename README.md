@@ -21,8 +21,8 @@ An interactive Sudoku game built with **Python Pygame** frontend and **C++ backe
 **Current Working Design:**
 ![Current Working Design](predesign.png)
 
-**Upcoming Enhanced Design:**
-![Upcoming Enhanced Design](desgin.png)
+**Final Design:**
+![Final Design](desgin.png)
 
 ---
 
