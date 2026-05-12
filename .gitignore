@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+*.egg-info/
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build artifacts
+*.o
+*.a
+*.lib
+*.dll
+CMakeFiles/
+cmake_install.cmake
+CMakeCache.txt
+Makefile
+*.ninja
+
+# Game saves
+sudoku_save.json
+*.json~
+
+# Build directories
+build/
